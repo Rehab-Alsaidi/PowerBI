@@ -24,7 +24,6 @@ The **HR Analytics Dashboard** provides insights into workforce metrics and empl
 
 
 ### Files:
-- **Dataset Folder**: Contains raw and processed data.
 - **Images Folder**: Includes images showcasing the dashboard.
 - **HR_Analytics.pbix**: Power BI file with the complete dashboard.
 
