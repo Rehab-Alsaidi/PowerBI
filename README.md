@@ -5,7 +5,6 @@ This repository contains the Power BI dashboard for HR Analytics. The dashboard 
 ## Repository Structure
 ```
 📂 HR_Analytics
-   ├── 📂 Dataset  
    ├── 📂 Images  
    ├── 📄 HR_Analytics.pbix  
 ```
