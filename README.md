@@ -23,20 +23,6 @@ The **HR Analytics Dashboard** provides insights into workforce metrics and empl
   - Attrition Heatmaps
   - Performance vs. Retention
 
-### Plots & Visualizations
-The dashboard includes the following key visualizations:
-
-#### Employee Distribution by Department
-![Employee Distribution](Images/In.png)
-- This plot showcases the distribution of employees across various departments, providing insights into workforce allocation.
-
-#### Attrition Rate by Age Group
-![Attrition Rate](Images/pd.png)
-- This visualization highlights attrition trends segmented by different age groups, helping HR teams identify at-risk categories.
-
-#### Overall HR Analytics Overview
-![HR Overview](Images/overview.png)
-- A high-level summary of key HR metrics, including retention rates, employee satisfaction, and overall workforce engagement.
 
 ### Files:
 - **Dataset Folder**: Contains raw and processed data.
